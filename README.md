@@ -1,0 +1,2 @@
+# Capstone-Project---Python-Code-to-Predict-the-futrue-number-of-orders-for-e-commerce-industry
+This repository is part of the Capstone Project where we are evaluating the e-commerce industry and understanding the problems it is facing. As analytical professional we aim at using predictive modeling, statistics (multivariate linear regression) and Python to predict the number of orders the industry can get in the future. Knowing the number of future orders can help the e-commerce firms to manage the inventory efficiently and meet the growing demands of the customer base. 
